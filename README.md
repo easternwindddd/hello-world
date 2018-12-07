@@ -1,2 +1,4 @@
 # hello-world
-experimental
+
+Hi all,
+I am a newbie on github.
